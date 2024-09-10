@@ -4,8 +4,8 @@ This repository hosts a simple HTML page that chronicles the story of PNDN Recor
 
 ## Website
 
-You can visit the website (here)[https://www.pndnrecords.net]
+You can visit the website [here](https://www.pndnrecords.net)
 
 ## License
 
-This project is open source and available for anyone interested in punk culture and digital history. It is licensed under a Creative Commons Attribution 4.0 International License. View the (LICENSE)[LICENSE.md] for more details
+This project is open source and available for anyone interested in punk culture and digital history. It is licensed under a Creative Commons Attribution 4.0 International License. View the [LICENSE](LICENSE.md) for more details
